@@ -1,0 +1,13 @@
+title: Neha Kumari | Senior QA Engineer & SDET
+description: Senior Quality Assurance Engineer & QA Governance Lead based in Düsseldorf, Germany.
+theme: jekyll-theme-cayman
+markdown: kramdown
+permalink: pretty
+
+# Header Navigation / Links
+github_username: yourusername
+linkedin_username: neha-kumari-4b6493107
+
+# Social preview & SEO
+plugins:
+  - jekyll-seo-tag
