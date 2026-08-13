@@ -1,14 +1,14 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Neha Kumari 👋
 ### QA Automation Engineer & SDET
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/neha-kumari-4b6493107/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/nehakumari-55)
 
 ---
 
 ## 🛠️ Core Technical Stack
-* **Test Automation:** Playwright (TypeScript/Python), Cypress, Selenium WebDriver
-* **API Testing:** Postman, REST Assured, Newman CLI
+* **Test Automation:** Selenium WebDriver, Playwright (TypeScript/Python)
+* **API Testing:** Postman, REST Assured
 * **CI/CD & DevOps:** GitHub Actions, Jenkins, Docker, Allure Reports
 * **Methodologies:** BDD (Cucumber), Page Object Model (POM), Cross-Browser Testing
 
